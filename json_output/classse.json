@@ -1,0 +1,34 @@
+[
+    {
+        "N_ContaClasse": 1,
+        "ContaClasse": "Meios fixos e investimentos"
+    },
+    {
+        "N_ContaClasse": 2,
+        "ContaClasse": "Existências"
+    },
+    {
+        "N_ContaClasse": 3,
+        "ContaClasse": "Terceiros"
+    },
+    {
+        "N_ContaClasse": 4,
+        "ContaClasse": "Meios monetários"
+    },
+    {
+        "N_ContaClasse": 5,
+        "ContaClasse": "Capital e reservas"
+    },
+    {
+        "N_ContaClasse": 6,
+        "ContaClasse": "Proveitos e ganhos (Receitas)"
+    },
+    {
+        "N_ContaClasse": 7,
+        "ContaClasse": "Custos e perdas (Despesas)"
+    },
+    {
+        "N_ContaClasse": 8,
+        "ContaClasse": "Resultado"
+    }
+]

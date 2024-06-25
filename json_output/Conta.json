@@ -1,0 +1,342 @@
+[
+    {
+        "N_Conta": 11,
+        "Conta": "Imobilizaçóes corpóreas",
+        "N_ContaClasse": 1
+    },
+    {
+        "N_Conta": 12,
+        "Conta": "Imobilizaçóes incorpóreas",
+        "N_ContaClasse": 1
+    },
+    {
+        "N_Conta": 13,
+        "Conta": "Investimentos financeiros",
+        "N_ContaClasse": 1
+    },
+    {
+        "N_Conta": 14,
+        "Conta": "Imobilizaçóes em cursos",
+        "N_ContaClasse": 1
+    },
+    {
+        "N_Conta": 18,
+        "Conta": "Amortizações acumuladas",
+        "N_ContaClasse": 1
+    },
+    {
+        "N_Conta": 19,
+        "Conta": "Previsões para investimentos financeiros",
+        "N_ContaClasse": 1
+    },
+    {
+        "N_Conta": 21,
+        "Conta": "Compras",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 22,
+        "Conta": "Matérias-primas, subsidiárias e de consumo",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 23,
+        "Conta": "Produtos e trabalhos em curso",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 24,
+        "Conta": "Produtos acabados e intermédios",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 25,
+        "Conta": "Subprodutos, desperdícios, resíduos e refugos",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 26,
+        "Conta": "Mercadorias",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 27,
+        "Conta": "Matérias-primas, mercadorias e outros materiais em trânsito",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 28,
+        "Conta": "Adiantamento por conta de compras",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 29,
+        "Conta": "Previsão para depreciação de existências",
+        "N_ContaClasse": 2
+    },
+    {
+        "N_Conta": 31,
+        "Conta": "Clientes",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 32,
+        "Conta": "Fornecedores",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 33,
+        "Conta": "Emprestimos",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 34,
+        "Conta": "Estado",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 35,
+        "Conta": "Entidades participantes e participadas",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 36,
+        "Conta": "Pessoal",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 37,
+        "Conta": "Outros valores a reber e a pagar",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 38,
+        "Conta": "Previsões para cobraças duvidosas",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 39,
+        "Conta": "Previsões para outros riscos e encargos",
+        "N_ContaClasse": 3
+    },
+    {
+        "N_Conta": 41,
+        "Conta": "Títulos negociáveis",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 42,
+        "Conta": "Depósitos a prazo",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 43,
+        "Conta": "Depósitos a órdem",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 44,
+        "Conta": "Outros depósitos",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 45,
+        "Conta": "Caixa",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 46,
+        "Conta": "-----------------------------",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 47,
+        "Conta": "-----------------------------",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 48,
+        "Conta": "Conta transitória",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 49,
+        "Conta": "Previsões para aplicações de tesouraria",
+        "N_ContaClasse": 4
+    },
+    {
+        "N_Conta": 51,
+        "Conta": "Capital",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 52,
+        "Conta": "Acções/quotas próprias",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 53,
+        "Conta": "Prémios de emissão",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 54,
+        "Conta": "Prestações suplementares",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 55,
+        "Conta": "Reservas legais",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 56,
+        "Conta": "Reservas de reavaliação",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 57,
+        "Conta": "Reservas com fins especiais",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 58,
+        "Conta": "Reservas livres",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 59,
+        "Conta": "-----------------------------",
+        "N_ContaClasse": 5
+    },
+    {
+        "N_Conta": 61,
+        "Conta": "Vendas",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 62,
+        "Conta": "Prestação de serviços",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 63,
+        "Conta": "Outros proveitos operacionais",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 64,
+        "Conta": "Variação nos inventários de produtos acabados e de produção em curso",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 65,
+        "Conta": "Trabalhos para própria empresa",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 66,
+        "Conta": "Proveitos e ganhos financeiros gerais",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 67,
+        "Conta": "Proveitos e ganhos financeiros em subsidiárias e associadas",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 68,
+        "Conta": "Outros proveitos e ganhos não operacionais",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 69,
+        "Conta": "Proveitos e ganhos extraordinários",
+        "N_ContaClasse": 6
+    },
+    {
+        "N_Conta": 71,
+        "Conta": "Custos das existências vendidas",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 72,
+        "Conta": "Custos com o pessoal",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 73,
+        "Conta": "Amortização do exercício",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 75,
+        "Conta": "Outros custos e perdas operacionais",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 76,
+        "Conta": "Custos e perdas financeiros gerais",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 77,
+        "Conta": "Custos e perdas financeiros em filiais e associadas",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 78,
+        "Conta": "Outros custos e perdas não operacionais",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 79,
+        "Conta": "Custos e perdas extraordinários",
+        "N_ContaClasse": 7
+    },
+    {
+        "N_Conta": 81,
+        "Conta": "Resultados transitados",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 82,
+        "Conta": "Resultados operacionais",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 83,
+        "Conta": "Resultados financeiros",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 84,
+        "Conta": "Resultados financeiros em filiais e associadas",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 85,
+        "Conta": "Resultados não operacionais",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 86,
+        "Conta": "Resultados extraordinários",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 87,
+        "Conta": "Imposto sobre os lucros",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 88,
+        "Conta": "Resultado líquido do exercício",
+        "N_ContaClasse": 8
+    },
+    {
+        "N_Conta": 89,
+        "Conta": "Dividendos antecipados",
+        "N_ContaClasse": 8
+    }
+]

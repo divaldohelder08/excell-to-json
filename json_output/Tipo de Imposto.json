@@ -1,0 +1,26 @@
+[
+    {
+        "id_Imposto": 1,
+        "Imposto": "Imposto Sobre o Valor Acrescentado",
+        "tipo_agt": "IVA",
+        "DataRegisto": "2019-12-30 16:12:43.647",
+        "DataModificacao": "2021-06-07 08:44:14.610",
+        "id_Usuario": 1
+    },
+    {
+        "id_Imposto": 2,
+        "Imposto": "Imposto de Selo",
+        "tipo_agt": "IS",
+        "DataRegisto": "2019-12-30 16:14:50.157",
+        "DataModificacao": "2019-12-30 16:14:50.157",
+        "id_Usuario": 1
+    },
+    {
+        "id_Imposto": 3,
+        "Imposto": "Não Sujeito a IVA ou IS",
+        "tipo_agt": "NS",
+        "DataRegisto": "2019-12-30 16:16:53.747",
+        "DataModificacao": "2022-02-04 22:44:50.370",
+        "id_Usuario": 1
+    }
+]

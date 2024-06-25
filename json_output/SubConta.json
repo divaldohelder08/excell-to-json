@@ -1,0 +1,2292 @@
+[
+    {
+        "N_ContaSub": "11.1",
+        "ContaSub": "Terrenos e recursos naturais",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.1.1",
+        "ContaSub": "Terrenos em bruto",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.1.2",
+        "ContaSub": "Terrenos com arranjos",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.1.3",
+        "ContaSub": "Subsolos",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.1.4",
+        "ContaSub": "Terrenos com edifícios",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.1.4.1",
+        "ContaSub": "Relativos a edifícios industriais",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.1.4.2",
+        "ContaSub": "Relativos a edifícios administrativos e comerciais",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.1.4.3",
+        "ContaSub": "Relativos a outros edifícios",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2",
+        "ContaSub": "Edifícios e outras construções",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2.1",
+        "ContaSub": "Edifícios",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2.1.1",
+        "ContaSub": "Integrados em conjuntos industriais",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2.1.2",
+        "ContaSub": "Integrados em conjuntos administrativos e comerciais",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2.1.3",
+        "ContaSub": "Outros conjuntos industriais",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2.1.4",
+        "ContaSub": "Implatados em propriedade alheia",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2.2",
+        "ContaSub": "Outras construções",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.2.3",
+        "ContaSub": "Instalações",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.3",
+        "ContaSub": "Equipamento básico",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.3.1",
+        "ContaSub": "Material industrial",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.3.2",
+        "ContaSub": "Ferramentas industriais",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.3.3",
+        "ContaSub": "Melhoramento em equipamentos básicos",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.4",
+        "ContaSub": "Equipamento de carga e transporte",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.4.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.5",
+        "ContaSub": "Equipamento administrativo",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.6",
+        "ContaSub": "Taras e vasilhame",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.6.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "11.9",
+        "ContaSub": "Outras imobilizações corpóreas",
+        "N_Conta": 11
+    },
+    {
+        "N_ContaSub": "12.1",
+        "ContaSub": "Trespasses",
+        "N_Conta": 12
+    },
+    {
+        "N_ContaSub": "12.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 12
+    },
+    {
+        "N_ContaSub": "12.2",
+        "ContaSub": "Despesas de investigação e desenvolvimento",
+        "N_Conta": 12
+    },
+    {
+        "N_ContaSub": "12.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 12
+    },
+    {
+        "N_ContaSub": "12.4",
+        "ContaSub": "Despesas de construção",
+        "N_Conta": 12
+    },
+    {
+        "N_ContaSub": "12.9",
+        "ContaSub": "Outras imobilizações incorpóreas",
+        "N_Conta": 12
+    },
+    {
+        "N_ContaSub": "13.1",
+        "ContaSub": "Empresa subsidiárias",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.1.1",
+        "ContaSub": "Partes de capital",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.1.2",
+        "ContaSub": "Obrigações e títulos de participação",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.1.3",
+        "ContaSub": "Emprestimos",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.2",
+        "ContaSub": "Empresas associadas",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.2.1",
+        "ContaSub": "Partes de capital",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.2.2",
+        "ContaSub": "Obrigações e títulos de participação",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.2.3",
+        "ContaSub": "Emprestimos",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.4",
+        "ContaSub": "Investimentos em imóveis",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.4.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.5",
+        "ContaSub": "Fundos",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.5.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.9",
+        "ContaSub": "Outros investimentos financeiros",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.9.1",
+        "ContaSub": "Diamantes",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.9.2",
+        "ContaSub": "Ouros",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "13.9.3",
+        "ContaSub": "Depósitos bancários",
+        "N_Conta": 13
+    },
+    {
+        "N_ContaSub": "14.1",
+        "ContaSub": "Obras em curso",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "14.2",
+        "ContaSub": "Obras em curso",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "14.7",
+        "ContaSub": "Adiantamento por conta do imobilizado corpóreo",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "14.7.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "14.8",
+        "ContaSub": "Adiantamento por conta do imobilizado incorpóreo",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "14.8.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "14.9",
+        "ContaSub": "Adiantamento por conta do investimentos financeiros",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "14.9.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 14
+    },
+    {
+        "N_ContaSub": "18.1",
+        "ContaSub": "Amortizações corpóreas",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "18.1.1",
+        "ContaSub": "Terrenos e recursos naturais",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "18.1.2",
+        "ContaSub": "Edifícios e outras construções",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "18.1.3",
+        "ContaSub": "Equipamento básico",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "18.1.4",
+        "ContaSub": "Equipamento de carga e transporte",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "18.1.5",
+        "ContaSub": "Equipamento administrativo",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "18.1.6",
+        "ContaSub": "Taras e vasilhame",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "18.1.9",
+        "ContaSub": "Outras imobilizações corpóreas",
+        "N_Conta": 18
+    },
+    {
+        "N_ContaSub": "19.1",
+        "ContaSub": "Empresas subsidiárias",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.1.1",
+        "ContaSub": "Partes de capital",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.1.2",
+        "ContaSub": "Obrigações e títulos de participação",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.1.3",
+        "ContaSub": "Emprestimos",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.2",
+        "ContaSub": "Empresas associadas",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.2.1",
+        "ContaSub": "Partes de capital",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.2.2",
+        "ContaSub": "Obrigações e títulos de participação",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.2.3",
+        "ContaSub": "Emprestimos",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.3",
+        "ContaSub": "Outras empresas",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.3.1",
+        "ContaSub": "Partes de capital",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.3.2",
+        "ContaSub": "Obrigações e títulos de participação",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.3.3",
+        "ContaSub": "Emprestimos",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.4",
+        "ContaSub": "Fundos",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.4.1",
+        "ContaSub": "Partes de capital",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.9",
+        "ContaSub": "Outros investimentos financeiros",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.9.1",
+        "ContaSub": "Diamantes",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.9.2",
+        "ContaSub": "Ouros",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "19.9.3",
+        "ContaSub": "Depósitos bancários",
+        "N_Conta": 19
+    },
+    {
+        "N_ContaSub": "21.1",
+        "ContaSub": "Matérias primas, subsidiárias e de consumo",
+        "N_Conta": 21
+    },
+    {
+        "N_ContaSub": "21.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 21
+    },
+    {
+        "N_ContaSub": "21.2",
+        "ContaSub": "Mercadorias",
+        "N_Conta": 21
+    },
+    {
+        "N_ContaSub": "21.7",
+        "ContaSub": "Devoluções de compras",
+        "N_Conta": 21
+    },
+    {
+        "N_ContaSub": "21.7.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 21
+    },
+    {
+        "N_ContaSub": "21.8",
+        "ContaSub": "Desconto e abatimento de compras",
+        "N_Conta": 21
+    },
+    {
+        "N_ContaSub": "22.1",
+        "ContaSub": "Matérias - primas",
+        "N_Conta": 22
+    },
+    {
+        "N_ContaSub": "22.2",
+        "ContaSub": "Matérias - subsidiárias",
+        "N_Conta": 22
+    },
+    {
+        "N_ContaSub": "22.3",
+        "ContaSub": "Matériais diversos",
+        "N_Conta": 22
+    },
+    {
+        "N_ContaSub": "22.4",
+        "ContaSub": "Embalagens de consumo",
+        "N_Conta": 22
+    },
+    {
+        "N_ContaSub": "22.5",
+        "ContaSub": "Outros matériais",
+        "N_Conta": 22
+    },
+    {
+        "N_ContaSub": "23.1",
+        "ContaSub": "Produtos e trabalhos em curso",
+        "N_Conta": 23
+    },
+    {
+        "N_ContaSub": "23.2",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 23
+    },
+    {
+        "N_ContaSub": "24.1",
+        "ContaSub": "Produtos acabados",
+        "N_Conta": 24
+    },
+    {
+        "N_ContaSub": "24.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 24
+    },
+    {
+        "N_ContaSub": "24.2",
+        "ContaSub": "Produtos intermédios",
+        "N_Conta": 24
+    },
+    {
+        "N_ContaSub": "24.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 24
+    },
+    {
+        "N_ContaSub": "24.9",
+        "ContaSub": "Em poder de terceiros",
+        "N_Conta": 24
+    },
+    {
+        "N_ContaSub": "24.9.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 24
+    },
+    {
+        "N_ContaSub": "25.1",
+        "ContaSub": "Subprodutos",
+        "N_Conta": 25
+    },
+    {
+        "N_ContaSub": "25.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 25
+    },
+    {
+        "N_ContaSub": "25.2",
+        "ContaSub": "Desperdícios, resíduos e refugos",
+        "N_Conta": 25
+    },
+    {
+        "N_ContaSub": "25.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 25
+    },
+    {
+        "N_ContaSub": "26.1",
+        "ContaSub": "Mercadorias",
+        "N_Conta": 26
+    },
+    {
+        "N_ContaSub": "26.2",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 26
+    },
+    {
+        "N_ContaSub": "26.9",
+        "ContaSub": "Em poder de terceiros",
+        "N_Conta": 26
+    },
+    {
+        "N_ContaSub": "26.9.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 26
+    },
+    {
+        "N_ContaSub": "28.1",
+        "ContaSub": "Materias - primas e outros materiais",
+        "N_Conta": 28
+    },
+    {
+        "N_ContaSub": "28.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 28
+    },
+    {
+        "N_ContaSub": "28.2",
+        "ContaSub": "Mercadorias",
+        "N_Conta": 28
+    },
+    {
+        "N_ContaSub": "28.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 28
+    },
+    {
+        "N_ContaSub": "29.1",
+        "ContaSub": "Previsão para depreciação de existências",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.2",
+        "ContaSub": "Materias - primas, subsidiárias e de consumo",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.3",
+        "ContaSub": "Produtos e trabalhos em curso",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.4",
+        "ContaSub": "Produtos acabados e intermédios",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.4.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.5",
+        "ContaSub": "Subprodutos, desperdícios, resíduos e refugos",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.5.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.6",
+        "ContaSub": "Mercadorias",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "29.6.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 29
+    },
+    {
+        "N_ContaSub": "31.1",
+        "ContaSub": "Clientes - correntes",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.1.1",
+        "ContaSub": "Grupo",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.1.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.1.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.2",
+        "ContaSub": "Clientes - títulos a receber",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.2.1",
+        "ContaSub": "Grupo",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.2.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.2.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.2.2",
+        "ContaSub": "Não grupo",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.2.2.1",
+        "ContaSub": "Nacionais",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.2.2.2",
+        "ContaSub": "Estrangeiros",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.3",
+        "ContaSub": "Clientes - títulos a descontados",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.3.1",
+        "ContaSub": "Grupo",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.3.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.3.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.3.2",
+        "ContaSub": "Não grupo",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.3.2.1",
+        "ContaSub": "Nacionais",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.3.2.2",
+        "ContaSub": "estrangeiros",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.8",
+        "ContaSub": "Clientes de cobrança duvidosa",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.8.1",
+        "ContaSub": "Clientes - correntes",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.8.2",
+        "ContaSub": "Clientes - títulos",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.9",
+        "ContaSub": "Clientes - saldos credores",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.9.1",
+        "ContaSub": "Adiantamentos",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.9.2",
+        "ContaSub": "Embalagens a devolver",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "31.9.3",
+        "ContaSub": "Material a consignação",
+        "N_Conta": 31
+    },
+    {
+        "N_ContaSub": "32.1",
+        "ContaSub": "Fornecedores - correntes",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.1.1",
+        "ContaSub": "Grupo",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.1.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.1.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.1.2",
+        "ContaSub": "Não grupo",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.1.2.1",
+        "ContaSub": "Nacionais",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.1.2.2",
+        "ContaSub": "Estrangeiros",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.2",
+        "ContaSub": "Fornecedores - títulos a pagar",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.2.1",
+        "ContaSub": "Grupo",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.2.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.2.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.2.2",
+        "ContaSub": "Não grupo",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.2.2.1",
+        "ContaSub": "Nacionais",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.2.2.2",
+        "ContaSub": "Estrangeiros",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.8",
+        "ContaSub": "Fornecedores - facturas em recepção e conferência",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.8.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.9",
+        "ContaSub": "Fornecedores - saldos devedores",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.9.1",
+        "ContaSub": "Adiantamento",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.9.2",
+        "ContaSub": "Embalagens a devolver",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "32.9.3",
+        "ContaSub": "Material à consignação",
+        "N_Conta": 32
+    },
+    {
+        "N_ContaSub": "33.1",
+        "ContaSub": "Empréstimos bancários",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.1.1",
+        "ContaSub": "Moeda nacional",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.1.1.1",
+        "ContaSub": "Banco A",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.1.1.2",
+        "ContaSub": "Banco B",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.1.2",
+        "ContaSub": "Moeda estrangeira",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.1.2.1",
+        "ContaSub": "Banco X",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.2",
+        "ContaSub": "Empréstimos por obrigações",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.2.1",
+        "ContaSub": "Convertíveis",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.2.1.1",
+        "ContaSub": "Entidade",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.2.2",
+        "ContaSub": "Não convertíveis",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.2.2.1",
+        "ContaSub": "Entidade",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.3",
+        "ContaSub": "Empréstimos por títulos de participação",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.3.1",
+        "ContaSub": "Entidade",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.9",
+        "ContaSub": "Outros empréstimos obtidos",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "33.9.1",
+        "ContaSub": "Entidade",
+        "N_Conta": 33
+    },
+    {
+        "N_ContaSub": "34.1",
+        "ContaSub": "Imposto sobre os lucros",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.2",
+        "ContaSub": "Imposto de produção e consumo",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.3",
+        "ContaSub": "Imposto de rendimento de trabalho",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.4",
+        "ContaSub": "Imposto de circulação",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.4.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.8",
+        "ContaSub": "Subsídios a preços",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.8.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.9",
+        "ContaSub": "Outros imposto",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "34.9.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 34
+    },
+    {
+        "N_ContaSub": "35.1",
+        "ContaSub": "Entidades participantes",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.1.1",
+        "ContaSub": "Estado",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.1.1.1",
+        "ContaSub": "C/subcrição",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.1.1.2",
+        "ContaSub": "C/adiantamentos sobre lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.1.1.3",
+        "ContaSub": "C/lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.1.1.4",
+        "ContaSub": "Empréstimos",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2",
+        "ContaSub": "Entidades participadas",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.1",
+        "ContaSub": "Estado",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.1.1",
+        "ContaSub": "C/subcrição",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.1.2",
+        "ContaSub": "C/adiantamentos sobre lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.1.3",
+        "ContaSub": "C/lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.1.4",
+        "ContaSub": "Empréstimos",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.2",
+        "ContaSub": "Empresas do grupo - subsidiárias",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.2.1",
+        "ContaSub": "C/subcrição",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.2.2",
+        "ContaSub": "C/adiantamentos sobre lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.2.3",
+        "ContaSub": "C/lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.2.4",
+        "ContaSub": "Empréstimos",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.3",
+        "ContaSub": "Empresas do grupo - associadas",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.3.1",
+        "ContaSub": "C/subcrição",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.3.2",
+        "ContaSub": "C/adiantamentos sobre lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.3.3",
+        "ContaSub": "C/lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.3.4",
+        "ContaSub": "Empréstimos",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.4",
+        "ContaSub": "Outros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.4.1",
+        "ContaSub": "C/subcrição",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.4.2",
+        "ContaSub": "C/adiantamentos sobre lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.4.3",
+        "ContaSub": "C/lucros",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "35.2.4.4",
+        "ContaSub": "Empréstimos",
+        "N_Conta": 35
+    },
+    {
+        "N_ContaSub": "36.1",
+        "ContaSub": "Pessoal - remunerações",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.1.1",
+        "ContaSub": "Órgãos sociais",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.1.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.1.2",
+        "ContaSub": "Empregados",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.1.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.2",
+        "ContaSub": "Pessoal - participação nos resultados",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.2.1",
+        "ContaSub": "Órgãos sociais",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.2.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.2.2",
+        "ContaSub": "Empregados",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.2.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.3",
+        "ContaSub": "Pessoal - adiantamentos",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.9",
+        "ContaSub": "Pessoal - outros",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "36.9.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 36
+    },
+    {
+        "N_ContaSub": "37.1",
+        "ContaSub": "Compras do imobilizado",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.1.1",
+        "ContaSub": "Corpóreo",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.1.2",
+        "ContaSub": "Incorpóreo",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.1.3",
+        "ContaSub": "Financeiro",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.2",
+        "ContaSub": "Vendas do imobilizado",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.2.1",
+        "ContaSub": "Corpóreo",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.2.2",
+        "ContaSub": "Incorpóreo",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.2.3",
+        "ContaSub": "Financeiro",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.3",
+        "ContaSub": "Proveitos a facturar",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.3.1",
+        "ContaSub": "Vendas",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.3.2",
+        "ContaSub": "Prestações de serviços",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.3.3",
+        "ContaSub": "Juros",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.4",
+        "ContaSub": "Encargos a repartir por periodos futuros",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.4.1",
+        "ContaSub": "Desconto de emissão de obrigações",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.4.2",
+        "ContaSub": "Desconto de emissão de títulos de participação",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.5",
+        "ContaSub": "Encargos a pagar",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.5.1",
+        "ContaSub": "Remunerações",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.5.2",
+        "ContaSub": "Juros",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.6",
+        "ContaSub": "Proveitos a repartir por periodos futuros",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.6.1",
+        "ContaSub": "Prémios de emissão de obrigações",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.6.2",
+        "ContaSub": "Prémios de emissão de títulos de participação",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.6.3",
+        "ContaSub": "Subsídios para investimento",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.6.4",
+        "ContaSub": "Diferenças de câmbio favoráveis reversíveis",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.7",
+        "ContaSub": "Contas transitórias",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.7.1",
+        "ContaSub": "Transações entre a sede e as dependências da empresa",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.9",
+        "ContaSub": "Outros valores a receber e a pagar",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "37.9.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 37
+    },
+    {
+        "N_ContaSub": "38.1",
+        "ContaSub": "Provisões para clientes",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.1.1",
+        "ContaSub": "Clientes - correntes",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.1.1.1",
+        "ContaSub": "Grupo",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.1.1.2",
+        "ContaSub": "Não grupo",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.1.3",
+        "ContaSub": "Clientes - cobrança duvidosa",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.1.3.1",
+        "ContaSub": "Grupo",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.1.3.2",
+        "ContaSub": "Não grupo",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.2",
+        "ContaSub": "Provisões para saldos devedores de fornecedores",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.3",
+        "ContaSub": "Provisões para participantes e participadas",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.3.1",
+        "ContaSub": "Participantes",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.3.2",
+        "ContaSub": "Participadas",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.4",
+        "ContaSub": "Provisões para dívida do pessoal",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.4.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.9",
+        "ContaSub": "Provisões para outros saldos a receber",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "38.9.1",
+        "ContaSub": "Vendas de imobilizado",
+        "N_Conta": 38
+    },
+    {
+        "N_ContaSub": "39.1",
+        "ContaSub": "Provisões para pensões",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.2",
+        "ContaSub": "Provisões para processos judiciais em curso",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.3",
+        "ContaSub": "Provisões para acidentes de trabalho",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.4",
+        "ContaSub": "Provisões para garantias dadas a clientes",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.4.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.9",
+        "ContaSub": "Provisões para outros riscos e encargos",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "39.9.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 39
+    },
+    {
+        "N_ContaSub": "41.1",
+        "ContaSub": "Acções",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.1.1",
+        "ContaSub": "Empresas do grupo",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.1.3",
+        "ContaSub": "Outras empresas",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.2",
+        "ContaSub": "Obrigações",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.2.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.2.3",
+        "ContaSub": "Outras empresas",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.3",
+        "ContaSub": "´Título da dívida pública",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "41.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 41
+    },
+    {
+        "N_ContaSub": "42.1",
+        "ContaSub": "Moeda nacional",
+        "N_Conta": 42
+    },
+    {
+        "N_ContaSub": "42.1.1",
+        "ContaSub": "Banco...",
+        "N_Conta": 42
+    },
+    {
+        "N_ContaSub": "42.1.2",
+        "ContaSub": "Banco...",
+        "N_Conta": 42
+    },
+    {
+        "N_ContaSub": "42.2",
+        "ContaSub": "Moeda estrangeira",
+        "N_Conta": 42
+    },
+    {
+        "N_ContaSub": "42.2.1",
+        "ContaSub": "Banco...",
+        "N_Conta": 42
+    },
+    {
+        "N_ContaSub": "42.2.2",
+        "ContaSub": "Banco...",
+        "N_Conta": 42
+    },
+    {
+        "N_ContaSub": "43.1",
+        "ContaSub": "Moeda nacional",
+        "N_Conta": 43
+    },
+    {
+        "N_ContaSub": "43.1.1",
+        "ContaSub": "Banco...",
+        "N_Conta": 43
+    },
+    {
+        "N_ContaSub": "43.1.2",
+        "ContaSub": "Banco...",
+        "N_Conta": 43
+    },
+    {
+        "N_ContaSub": "43.2",
+        "ContaSub": "Moeda estrangeira",
+        "N_Conta": 43
+    },
+    {
+        "N_ContaSub": "43.2.1",
+        "ContaSub": "Banco...",
+        "N_Conta": 43
+    },
+    {
+        "N_ContaSub": "43.2.2",
+        "ContaSub": "Banco...",
+        "N_Conta": 43
+    },
+    {
+        "N_ContaSub": "44.1",
+        "ContaSub": "Moeda nacional",
+        "N_Conta": 44
+    },
+    {
+        "N_ContaSub": "44.1.1",
+        "ContaSub": "Banco...",
+        "N_Conta": 44
+    },
+    {
+        "N_ContaSub": "44.1.2",
+        "ContaSub": "Banco...",
+        "N_Conta": 44
+    },
+    {
+        "N_ContaSub": "44.2",
+        "ContaSub": "Moeda estrangeira",
+        "N_Conta": 44
+    },
+    {
+        "N_ContaSub": "44.2.1",
+        "ContaSub": "Banco...",
+        "N_Conta": 44
+    },
+    {
+        "N_ContaSub": "44.2.2",
+        "ContaSub": "Banco...",
+        "N_Conta": 44
+    },
+    {
+        "N_ContaSub": "45.1",
+        "ContaSub": "Fundo fixo",
+        "N_Conta": 45
+    },
+    {
+        "N_ContaSub": "45.1.1",
+        "ContaSub": "Caixa...",
+        "N_Conta": 45
+    },
+    {
+        "N_ContaSub": "45.1.2",
+        "ContaSub": "Caixa...",
+        "N_Conta": 45
+    },
+    {
+        "N_ContaSub": "45.2",
+        "ContaSub": "Valores para depositar",
+        "N_Conta": 45
+    },
+    {
+        "N_ContaSub": "45.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 45
+    },
+    {
+        "N_ContaSub": "45.3",
+        "ContaSub": "Valores destinados a pagamentos específicos",
+        "N_Conta": 45
+    },
+    {
+        "N_ContaSub": "45.3.1",
+        "ContaSub": "Salários",
+        "N_Conta": 45
+    },
+    {
+        "N_ContaSub": "46.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 46
+    },
+    {
+        "N_ContaSub": "46.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 46
+    },
+    {
+        "N_ContaSub": "47.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 47
+    },
+    {
+        "N_ContaSub": "47.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 47
+    },
+    {
+        "N_ContaSub": "48.1",
+        "ContaSub": "Banco...",
+        "N_Conta": 48
+    },
+    {
+        "N_ContaSub": "48.2",
+        "ContaSub": "Banco...",
+        "N_Conta": 48
+    },
+    {
+        "N_ContaSub": "49.1",
+        "ContaSub": "Títulos negociáveis",
+        "N_Conta": 49
+    },
+    {
+        "N_ContaSub": "49.1.1",
+        "ContaSub": "Acções",
+        "N_Conta": 49
+    },
+    {
+        "N_ContaSub": "49.1.2",
+        "ContaSub": "Obrigações",
+        "N_Conta": 49
+    },
+    {
+        "N_ContaSub": "49.1.3",
+        "ContaSub": "Títulos da dívida pública",
+        "N_Conta": 49
+    },
+    {
+        "N_ContaSub": "49.2",
+        "ContaSub": "Outras aplicações de tesoraria",
+        "N_Conta": 49
+    },
+    {
+        "N_ContaSub": "49.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 49
+    },
+    {
+        "N_ContaSub": "51.1",
+        "ContaSub": "Capital",
+        "N_Conta": 51
+    },
+    {
+        "N_ContaSub": "52.1",
+        "ContaSub": "Valor normal",
+        "N_Conta": 52
+    },
+    {
+        "N_ContaSub": "52.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 52
+    },
+    {
+        "N_ContaSub": "52.2",
+        "ContaSub": "Descontos",
+        "N_Conta": 52
+    },
+    {
+        "N_ContaSub": "52.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 52
+    },
+    {
+        "N_ContaSub": "52.3",
+        "ContaSub": "Prémios",
+        "N_Conta": 52
+    },
+    {
+        "N_ContaSub": "52.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 52
+    },
+    {
+        "N_ContaSub": "53.1",
+        "ContaSub": "Prémios de emissão",
+        "N_Conta": 53
+    },
+    {
+        "N_ContaSub": "54.1",
+        "ContaSub": "Prestações suplementares",
+        "N_Conta": 54
+    },
+    {
+        "N_ContaSub": "55.1",
+        "ContaSub": "Reservas legais",
+        "N_Conta": 55
+    },
+    {
+        "N_ContaSub": "56.1",
+        "ContaSub": "Legais",
+        "N_Conta": 56
+    },
+    {
+        "N_ContaSub": "56.1.1",
+        "ContaSub": "Decreto lei nº",
+        "N_Conta": 56
+    },
+    {
+        "N_ContaSub": "56.1.2",
+        "ContaSub": "Decreto lei nº",
+        "N_Conta": 56
+    },
+    {
+        "N_ContaSub": "56.2",
+        "ContaSub": "Autónomas",
+        "N_Conta": 56
+    },
+    {
+        "N_ContaSub": "56.2.1",
+        "ContaSub": "Avaliação",
+        "N_Conta": 56
+    },
+    {
+        "N_ContaSub": "56.2.2",
+        "ContaSub": "Reavalição",
+        "N_Conta": 56
+    },
+    {
+        "N_ContaSub": "57.1",
+        "ContaSub": "Reservas com fins especiais",
+        "N_Conta": 57
+    },
+    {
+        "N_ContaSub": "58.1",
+        "ContaSub": "Reservas livres",
+        "N_Conta": 58
+    },
+    {
+        "N_ContaSub": "59.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 59
+    },
+    {
+        "N_ContaSub": "61.1",
+        "ContaSub": "Produtos acabados e intermédios",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.1.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.1.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.2",
+        "ContaSub": "Subprodutos, desperdícios, resíduos e refugos",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.2.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.2.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.3",
+        "ContaSub": "Mercadorias",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.3.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.3.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.4",
+        "ContaSub": "Embalagens de consumo",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.4.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.4.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.5",
+        "ContaSub": "Subsídios a preços",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.5.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.7",
+        "ContaSub": "Devoluções",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.7.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.7.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.8",
+        "ContaSub": "Descontos e abatimentos",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.8.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.8.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "61.9",
+        "ContaSub": "Transferência para resultados operacionais",
+        "N_Conta": 61
+    },
+    {
+        "N_ContaSub": "62.1",
+        "ContaSub": "Serviços principais",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.1.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.1.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.2",
+        "ContaSub": "Serviços secundários",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.2.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.2.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.8",
+        "ContaSub": "Descontos e abatimentos",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.8.1",
+        "ContaSub": "Mercado nacional",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.8.2",
+        "ContaSub": "Mercado estrangeiro",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "62.9",
+        "ContaSub": "Transferência para resultados operacionais",
+        "N_Conta": 62
+    },
+    {
+        "N_ContaSub": "63.1",
+        "ContaSub": "Serviços suplementares",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.1.1",
+        "ContaSub": "Aluguer de equipamentos",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.1.2",
+        "ContaSub": "Cedência de pessoal",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.1.3",
+        "ContaSub": "Cedência de energia",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.1.4",
+        "ContaSub": "Estudos. Projectos e assistência técnica",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.2",
+        "ContaSub": "Royalties",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.3",
+        "ContaSub": "Subsídios à exploração",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.4",
+        "ContaSub": "Subsídios ao investimento",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.8",
+        "ContaSub": "Outros proveitos e ganhos operacionais",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.8.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "63.9",
+        "ContaSub": "Transferência para resultados operacionais",
+        "N_Conta": 63
+    },
+    {
+        "N_ContaSub": "64.1",
+        "ContaSub": "Produtos e trabalhos em curso",
+        "N_Conta": 64
+    },
+    {
+        "N_ContaSub": "64.1.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 64
+    },
+    {
+        "N_ContaSub": "64.2",
+        "ContaSub": "Produtos acabados",
+        "N_Conta": 64
+    },
+    {
+        "N_ContaSub": "64.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 64
+    },
+    {
+        "N_ContaSub": "64.3",
+        "ContaSub": "Produtos intermédios",
+        "N_Conta": 64
+    },
+    {
+        "N_ContaSub": "64.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 64
+    },
+    {
+        "N_ContaSub": "64.9",
+        "ContaSub": "Transferência para resultados operacionais",
+        "N_Conta": 64
+    },
+    {
+        "N_ContaSub": "65.1",
+        "ContaSub": "Para imobilizado",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "65.1.1",
+        "ContaSub": "Corpóreo",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "65.1.2",
+        "ContaSub": "Incorpóreo",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "65.1.3",
+        "ContaSub": "Financeiro",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "65.1.4",
+        "ContaSub": "Em curso",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "65.2",
+        "ContaSub": "Para encargos a repartir por exércicios futuros",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "65.2.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "65.9",
+        "ContaSub": "Transferência para resultados operacionais",
+        "N_Conta": 65
+    },
+    {
+        "N_ContaSub": "66.1",
+        "ContaSub": "Juros",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.1",
+        "ContaSub": "De investimento financeiros",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.1.1",
+        "ContaSub": "Obrigações",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.1.3",
+        "ContaSub": "Títulos de participação",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.1.4",
+        "ContaSub": "Empréstimos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.1.9",
+        "ContaSub": "Outros",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.2",
+        "ContaSub": "De mora relativos a dívidas de terceiros ",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.2.1",
+        "ContaSub": "Dívidas recebidas a prestações",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.2.2",
+        "ContaSub": "De emprestimo a terceiros",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.4",
+        "ContaSub": "De aplicações de tesouraria",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.1.5",
+        "ContaSub": "Desconto de títulos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.2",
+        "ContaSub": "Diferença de câmbio favoráveis",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.2.1",
+        "ContaSub": "Realizadas",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.2.2",
+        "ContaSub": "Não realizadas",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.3",
+        "ContaSub": "Descontos de pronto pagamento obtidos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.3.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.4",
+        "ContaSub": "Rendimentos de investimento em imóveis",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.4.1",
+        "ContaSub": "-----------------------------",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.5",
+        "ContaSub": "Rendimento de partições de capital",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.5.1",
+        "ContaSub": "Acções, quotas em outras empresas",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.5.2",
+        "ContaSub": "Acções, quotas incluindas nos fundos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.5.3",
+        "ContaSub": "Acções, quotas incluindas nos títulos negociáveis",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6",
+        "ContaSub": "Ganhos na alienação de aplicações financeiras",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.1",
+        "ContaSub": "Investimentos financeiros",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.1.3",
+        "ContaSub": "Outras empresas",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.1.4",
+        "ContaSub": "Imóveis",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.1.5",
+        "ContaSub": "Fundos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.1.9",
+        "ContaSub": "Outros investimentos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.6.2",
+        "ContaSub": "Títulos negociáveis",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7",
+        "ContaSub": "Redução de previsões",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.1",
+        "ContaSub": "Investimento financeiro",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.1.3",
+        "ContaSub": "Outras empresas",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.1.4",
+        "ContaSub": "Fundos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.1.9",
+        "ContaSub": "Outros investimentos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.2",
+        "ContaSub": "Aplicações de tesouraria",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.2.1",
+        "ContaSub": "Títulos negociáveis",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.2.2",
+        "ContaSub": "Depósitos a prazo",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.2.3",
+        "ContaSub": "Outros depósito",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "66.7.2.9",
+        "ContaSub": "Outros investimentos",
+        "N_Conta": 66
+    },
+    {
+        "N_ContaSub": "67.1",
+        "ContaSub": "Rendimento de participações de capital",
+        "N_Conta": 67
+    },
+    {
+        "N_ContaSub": "67.1.1",
+        "ContaSub": "Subsidiárias",
+        "N_Conta": 67
+    },
+    {
+        "N_ContaSub": "67.1.2",
+        "ContaSub": "Associadas",
+        "N_Conta": 67
+    }
+]

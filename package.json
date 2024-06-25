@@ -1,0 +1,19 @@
+{
+  "name": "excell-to-json",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx --trace-warnings ./index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "tsx": "^4.15.7",
+    "xlsx": "^0.18.5"
+  }
+}

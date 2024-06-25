@@ -1,0 +1,30 @@
+[
+    {
+        "id_ImpostoTaxa": 1,
+        "valor_Taxa": "0.00",
+        "DataInicio": 43829,
+        "Tipo": "ISE",
+        "id_tipo_Imposto": 1
+    },
+    {
+        "id_ImpostoTaxa": 2,
+        "valor_Taxa": "7.00",
+        "DataInicio": 43829,
+        "Tipo": "NOR",
+        "id_tipo_Imposto": 2
+    },
+    {
+        "id_ImpostoTaxa": 3,
+        "valor_Taxa": "0.00",
+        "DataInicio": 43828,
+        "Tipo": "NS",
+        "id_tipo_Imposto": 3
+    },
+    {
+        "id_ImpostoTaxa": 4,
+        "valor_Taxa": "14.00",
+        "DataInicio": 43829,
+        "Tipo": "NOR",
+        "id_tipo_Imposto": 1
+    }
+]
